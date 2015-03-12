@@ -1,0 +1,39 @@
+# Dependencies
+markdown:           redcarpet
+highlighter:        true
+
+
+# Jekyll configuration
+permalink:          pretty
+
+
+# Site wide configuration
+title:              Go There &amp; Back
+tagline:            'Dave &amp; LeeAnne Travel the World in 2007'
+description:        'WHERE ARE WE NOW?<br />The United States -<br /> We are back home in Washington, D.C.'
+logo:               # 120x120 px default image used for Twitter summary card
+teaser:             # 400x250 px default teaser image used in image archive grid
+url:                http://gothereandback.com
+paginate:           18
+
+
+# Site owner
+author:             'Dave Hogge'
+name:               'Dave Hogge'
+email:              'info@davidhogge.com'
+owner_url:          http://davidhogge.com
+twitter:            https://twitter.com/davehogge
+twitter_id:         davehogge
+twitter_id_num:     11270632
+
+
+# Analytics
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-1718797-1'
+
+
+# Custom vars
+version:            0.1.0
+github:             https://github.com/davehogge/gothereandback.com

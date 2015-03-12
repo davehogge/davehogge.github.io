@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+        
+    {% include head.html %}
+    
+    <body class="layout-reverse sidebar-overlay theme-base-gtab">
+    
+    {% include sidebar.html %}
+    
+    {% comment %} Wrap is the content to shift when toggling the sidebar. We wrap the content to avoid any CSS collisions with our real content.  {% endcomment %}
+    <div class="wrap">
+        <div class="masthead">
+            <div class="container">
+                <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+                    
+                <h3 class="masthead-title">
+                    <a href="/" title="Home">{{ site.title }}</a>
+                    <small>{{ site.tagline }}</small>
+                </h3>
+            </div>
+        </div>
+        
+        <div class="container content">
+            {{ content }}
+        </div>
+        
+        <div class="container footer">
+            <p><small>&copy; 2006 - {{ site.time | date: '%Y' }}. All rights reserved.</small></p>
+        </div>
+                
+    </div>
+    
+    {% comment %} Google Analytics {% endcomment %}
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-1718797-1']);
+        _gaq.push(['_trackPageview']);
+        
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+    </body>
+</html>

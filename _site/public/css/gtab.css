@@ -1,0 +1,130 @@
+html {
+    font-family: 'Helvetica Neue', Helvetica, Arial, Frutiger, 'Frutiger Linotype', Univers, Calibri, 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', Myriad, 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Helvetica Neue', Helvetica, Arial, Frutiger, 'Frutiger Linotype', Univers, Calibri, 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', Myriad, 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, sans-serif;
+    font-weight: 400;
+    color: #303030;
+    letter-spacing: -.025rem;
+}
+
+
+.container {
+    max-width: 56rem;
+}
+
+img {
+  margin: 0;
+  border-radius: 0;
+  max-width: 100%; 
+  height: auto;
+  padding: 4px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-transition: all .2s ease-in-out;
+       -o-transition: all .2s ease-in-out;
+          transition: all .2s ease-in-out;
+}
+
+figcaption {
+    font-size: 70%;
+}
+
+a {
+  color: #563d7c;
+}
+
+/* Purple */
+.theme-base-gtab .sidebar,
+.theme-base-gtab .sidebar-toggle:active,
+.theme-base-gtab #sidebar-checkbox:checked ~ .wrap .sidebar-toggle {
+  background-color: #563d7c;
+}
+
+.masthead-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #563d7c;
+}
+
+.masthead-title a {
+  color: #563d7c;
+}
+
+.masthead-title small {
+  font-size: 65%;
+  font-weight: 400;
+  color: #b5b5b5;
+}
+
+/* Blog post or page title */
+.related-posts li a:hover {
+  color: #563d7d;
+}
+
+
+/* Blog List Pages */
+.post-list {
+    max-width: 56rem;
+    transition: color .25s ease-in-out;
+}
+
+.post-list .post-item {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    max-width: 16rem;
+    min-width: 16rem;
+    max-height: 16rem;
+    border-top: 1px solid #c0c0c0;
+    vertical-align: top;
+}
+
+.post-list .post-item a:hover {
+    text-decoration: none;
+    background-color: #c2c2c2;
+}
+
+.post-list .post-item figure {
+    margin: 0;
+    max-width: 16rem;
+    max-height: 9rem;
+    overflow: hidden;
+}
+
+.post-list .post-item img {
+    max-width: 16rem;
+    border: none;
+    border-radius: 0;
+}
+
+.post-list .post-item img.default-image {
+    opacity: .4;
+    max-height: 9rem;
+    margin: auto;
+}
+
+.post-list .post-item .post-title,
+.post-list .post-item .post-description {
+    margin-top: 0;
+    margin-bottom: 0rem;
+    display: block;
+    line-height: normal;
+}
+
+.post-list .post-item .post-title {
+    font-size: 0.9rem;
+}
+
+.post-list .post-item .post-description {
+    font-size: 0.7rem; 
+    color: #303030;
+    padding-bottom: 5px;
+}
+
+.container {
+    max-width: 56rem;
+}

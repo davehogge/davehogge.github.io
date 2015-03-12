@@ -1,0 +1,38 @@
+{% comment %} Target for toggling the sidebar `.sidebar-checkbox` is for regular styles, `#sidebar-checkbox` for behavior. {% endcomment %}
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+{% comment %} Toggleable sidebar {% endcomment %}
+<div class="sidebar" id="sidebar">
+    <div class="sidebar-item">
+        <p>{{ site.description }}</p>
+    </div>
+    
+    <nav class="sidebar-nav">
+        <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/">Home</a>
+        {% comment %} The code below dynamically generates a sidebar nav of pages with `layout: page` in the front-matter. See readme for usage. {% endcomment %}
+        {% assign pages_list = site.pages %}
+        {% for node in pages_list %}
+            {% if node.title != null %}
+                {% if node.layout == "page" %}
+                <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+        <a class="sidebar-nav-item{% if page.title == "Post-Trip Round-Up" %} active{% endif %}" href="/post-trip/">Post-Trip Round-Up</a>
+        <a class="sidebar-nav-item{% if page.title == "USA" %} active{% endif %}" href="/usa/">USA</a>
+        <a class="sidebar-nav-item{% if page.title == "Turkey" %} active{% endif %}" href="/turkey/">Turkey</a>
+        <a class="sidebar-nav-item{% if page.title == "Jordan" %} active{% endif %}" href="/jordan/">Jordan</a>
+        <a class="sidebar-nav-item{% if page.title == "England" %} active{% endif %}" href="/england/">England</a>
+        <a class="sidebar-nav-item{% if page.title == "Namibia" %} active{% endif %}" href="/namibia/">Namibia</a>
+        <a class="sidebar-nav-item{% if page.title == "Botswana" %} active{% endif %}" href="/botswana/">Botswana</a>
+        <a class="sidebar-nav-item{% if page.title == "Zambia" %} active{% endif %}" href="/zambia/">Zambia</a>
+        <a class="sidebar-nav-item{% if page.title == "Zimbabwe" %} active{% endif %}" href="/zimbabwe/">Zimbabwe</a>
+        <a class="sidebar-nav-item{% if page.title == "South Africa" %} active{% endif %}" href="/south-africa/">South Africa</a>
+        <a class="sidebar-nav-item{% if page.title == "Mongolia" %} active{% endif %}" href="/mongolia/">Mongolia</a>
+        <a class="sidebar-nav-item{% if page.title == "China" %} active{% endif %}" href="/china/">China</a>
+        <a class="sidebar-nav-item{% if page.title == "India" %} active{% endif %}" href="/india/">India</a>
+        <a class="sidebar-nav-item{% if page.title == "Australia" %} active{% endif %}" href="/australia/">Australia</a>
+        <a class="sidebar-nav-item{% if page.title == "New Zealand" %} active{% endif %}" href="/new-zealand/">New Zealand</a>
+        <a class="sidebar-nav-item{% if page.title == "Travel Gear" %} active{% endif %}" href="/travel-expenses/">Preparation, Gear & Expenses</a>
+    </nav>
+</div>
