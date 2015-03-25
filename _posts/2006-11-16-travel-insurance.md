@@ -17,7 +17,6 @@ geo_public:
   - 1
 categories:
   - Pre-Trip Preparation
-  - Travel Expenses
 tags:
   - Economics
   - Finance

@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+{% assign categories = '' %}
+{% for post in site.posts %}
+    {% if post.url == page.url %}
+        {% assign categories = post.categories %}
+    {% endif %}
+{% endfor %}
+
+{% assign total = '0' %}
+{% assign item = '0' %}
+{% for post in site.posts reversed %}
+    {% if post.categories == page.categories %}
+		{% if post.url == page.url %}
+            {% capture item %}{{ total }}{% endcapture %}
+		{% endif %}
+	{% endif %}
+{% endfor %}
+
+<h2>{{ page.title }}</h2>
+
+<ul class="post-list">
+    {% assign total = '0' %}
+    {% for post in site.posts reversed %}
+        {% if post.categories == page.categories %}
+        <li class="post-item">
+            <a href="{{ post.url }}">
+                {% if post.thumbnail != null %}<figure><img src="{{ post.thumbnail }}.jpg" alt="{{ post.thumbnail_alt }}" title="{{ post.thumbnail_alt }}" label="{{ post.thumbnail_alt }}" /></figure>
+                {% else %}<figure><img src="/public/images/thumbnail-default.gif" alt="default image" class="default-image" /></figure>
+                {% endif %}
+                <span class="post-title">{{ post.title }}</span>
+                <span class="post-description">{{ post.thumbnail_alt }}</span>
+            </a>
+        </li>
+        {% endif %}
+	{% endfor %}
+</ul>

@@ -17,7 +17,6 @@ geo_public:
   - 1
 categories:
   - Botswana
-  - Zimbabwe
 tags:
   - Africa
   - boat cruises

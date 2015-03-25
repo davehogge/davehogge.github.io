@@ -17,7 +17,6 @@ geo_public:
   - 1
 categories:
   - China
-  - Travel Expenses
 tags:
   - bok choy
   - budget travelers

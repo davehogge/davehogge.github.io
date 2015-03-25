@@ -17,8 +17,6 @@ geo_public:
   - 1
 categories:
   - Pre-Trip Preparation
-  - Travel Expenses
-  - Travel Gear
 tags:
   - blackberry 7100t
   - cell phones

@@ -17,7 +17,6 @@ geo_public:
   - 1
 categories:
   - Pre-Trip Preparation
-  - Travel Gear
 ---
 Is it cool? No. Is it fun, kind of. Is it needed? No. Are we making ANY money off of it? No. But we still have a CafePress store, so deal with it.
 

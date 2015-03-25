@@ -16,7 +16,6 @@ geo_enabled:
 geo_public:
   - 1
 categories:
-  - South Africa
   - Zimbabwe
 tags:
   - beijing

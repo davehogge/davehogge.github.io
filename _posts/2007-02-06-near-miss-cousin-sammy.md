@@ -22,9 +22,9 @@ tags:
   - Person Travel
   - Wellington
 ---
-At the same time LeeAnne and I are doing our around the world travel my cousin [Sam Forrest][1] is doing something very similar. Last I had heard he was in South America so I never really even thought about the possibility that our paths might cross, but small world that it is, it seems he jumped over the Pacific by way of the Galapagos and Easter Island and was in Auckland when we were in Wellington &#8211; opposite sides of the North Island. Unfortunitly Sammy travels a little faster than we do, so he was on his way to Singapore before we had a chance to get back up to Auckland. Next time Sam, next time.
+At the same time LeeAnne and I are doing our around the world travel my cousin [Sam Forrest][1] is doing something very similar. Last I had heard he was in South America so I never really even thought about the possibility that our paths might cross, but small world that it is, it seems he jumped over the Pacific by way of the Galapagos and Easter Island and was in Auckland when we were in Wellington – opposite sides of the North Island. Unfortunately Sammy travels a little faster than we do, so he was on his way to Singapore before we had a chance to get back up to Auckland. Next time Sam, next time.
 
-And he has a new web site to <a herf="http://www.jawolf.com/samf/">document his travels</a> as well as his [woodwork][2].
+And he has a new web site to document his travels as well as his [woodwork][2].
 
- [1]: http://www.jawolf.com/sam/
- [2]: http://www.jawolf.com/sam/woodcraft.htm
+[1]: http://www.jawolf.com/sam/
+[2]: http://www.jawolf.com/sam/woodcraft.htm

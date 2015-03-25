@@ -1,16 +1,21 @@
 # Dependencies
 markdown:           redcarpet
-highlighter:        true
+redcarpet:
+  extensions:       ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+highlighter:        pygments
 
 
 # Jekyll configuration
-permalink:          pretty
+permalink:          /:categories/:title/
+gems:
+  - jekyll-sitemap
 
 
 # Site wide configuration
 title:              Go There &amp; Back
 tagline:            'Dave &amp; LeeAnne Travel the World in 2007'
 description:        'WHERE ARE WE NOW?<br />The United States -<br /> We are back home in Washington, D.C.'
+copyright:          '&copy; All Rights Reserved, David Hogge and Lee Anne Adams. 2006 -'
 logo:               # 120x120 px default image used for Twitter summary card
 teaser:             # 400x250 px default teaser image used in image archive grid
 url:                http://gothereandback.com

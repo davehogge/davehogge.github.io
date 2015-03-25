@@ -16,11 +16,7 @@ geo_enabled:
 geo_public:
   - 1
 categories:
-  - Botswana
-  - Namibia
   - South Africa
-  - Zambia
-  - Zimbabwe
 tags:
   - Anti-communism
   - British Commonwealth

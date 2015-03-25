@@ -17,7 +17,6 @@ geo_public:
   - 1
 categories:
   - Pre-Trip Preparation
-  - Travel Expenses
 tags:
   - Antimalarial drug
   - doctors office
@@ -28,11 +27,11 @@ tags:
   - vaccinations
   - Vaccine
 ---
-First stop on the road to Round the World Travel is the Doctors office. It may not be the most romantic or adventuresome idea, but I&#8217;m pretty sure that before the best adventurers and explorers headed out they got their shots. How much could Indiana Jones have gotten done if he were bed-ridden with Hep B while chasing the Ark of the Covanent? Not much.
+First stop on the road to Round the World Travel is the Doctors office. It may not be the most romantic or adventuresome idea, but I'm pretty sure that before the best adventurers and explorers headed out they got their shots. How much could Indiana Jones have gotten done if he were bed-ridden with Hep B while chasing the Ark of the Covenant? Not much.
 
-Luckily for us we are based in Washington D.C. where there are a number of clinics that specialize in World Travel. After doing some shopping around we have decided to use the services of &#8220;Travelers Medical&#8221; on K St. They seem to us the best balance of cost, pratical advice, and experience. Contact detals are below.
+Luckily for us we are based in Washington D.C. where there are a number of clinics that specialize in World Travel. After doing some shopping around we have decided to use the services of "Travelers Medical" on K St. They seem to us the best balance of cost, practical advice, and experience. Contact details are below.
 
-That said, vaccinations are not cheap: We will probably drop around $1000 USD, on shots, vaccinations and anti-malarials.
+That said, vaccinations are not cheap: We will probably drop around $1000 USD, on shots, vaccinations and antimalarials.
 
 As LeeAnne is a RPCV (Returned Peace Corp Volunteer) she is way in front of me in terms of vaccinations. I will need the works, even my Tetnis boosters are behind.
 
@@ -40,7 +39,4 @@ As LeeAnne is a RPCV (Returned Peace Corp Volunteer) she is way in front of me i
 > 2141 K St NW # 408  
 > Washington, DC 20037  
 > (202) 466-8109  
-> [travelersmedical.com][1]  
-> </blockquote
-
- [1]: http://www.travelersmedical.com
+> [travelersmedical.com][1] 

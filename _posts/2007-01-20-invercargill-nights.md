@@ -46,4 +46,4 @@ Other than that it has alot of stores that aren&#8217;t open, Bogens (What we wo
 
 So there isn&#8217;t a lot for Invercarglians to toot their horn about. Or there wasn&#8217;t until this movie came out (And it&#8217;s really a good movie, I&#8217;d see it again). Now those folks up in Dunedin may still have a laugh at Invercargill&#8217;s expense, but who&#8217;s got the movie under their belt? That&#8217;s right. Invercrappy, I mean Invercargill.
 
- [1]: http://gothereandback.com/?p=29
+ [1]: http://gothereandback.com/new-zealand/diary-of-a-car-camper-south-island.html

@@ -33,7 +33,7 @@ tags:
 ---
 As I stood at the edge of the Ganges in Rishikesh, I couldn&#8217;t help but hum the final lyrics to Sleater Kinney&#8217;s &#8220;Light Rail Coyote.&#8221; 
 
-*Oh Dirty River, Come Let Me In   *Except, I have no desire to dip into the Ganges.  Apparently I&#8217;m not the same girl who once swam in the Rio Paraguay!
+*Oh Dirty River, Come Let Me In* Except, I have no desire to dip into the Ganges.  Apparently I&#8217;m not the same girl who once swam in the Rio Paraguay!
 
 The Ganges, or Ganga, is a major river in India.  It emerges from the Himalayas in the pilgrimage town of Haridwar not far from Rishikesh and flows southeasterly all the way to the Bay of Bengal.  For Hindus, the river is sacred.  Most believe that bathing in the river at certain times will wash away one&#8217;s sins and help to attain salvation.  Many bring the ashes of their loved ones to the river with the belief that the ashes will be sent to heaven.  Though we only saw a few boxes and bags float by, it is apparently not uncommon to see dead cows or even people float by.
 

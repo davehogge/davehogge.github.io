@@ -3,8 +3,8 @@ title: 'Ma&#8217;Salama Jordan!'
 author: David Hogge
 layout: post
 permalink: /jordan/masalama-jordan.html
-thumbnail: http://upload.wikimedia.org/wikipedia/en/thumb/c/c6/King_Abdullah_on_Star_Trek.jpg/180px-King_Abdullah_on_Star_Trek.jpg
-thumbnail_alt: Make it so Your Excellency
+thumbnail: null
+thumbnail_alt: null
 geo_latitude:
   - 31.955184
 geo_longitude:

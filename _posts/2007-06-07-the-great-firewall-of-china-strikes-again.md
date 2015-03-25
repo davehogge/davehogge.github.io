@@ -30,7 +30,17 @@ tags:
   - Travel sites
   - web-sites
 ---
-<p>Before we had arrived in mainland China we were aware that censorship was alive and well here. The televised news is little more than propaganda and access to other forms on information is limited. Many web-sites, several that we use regularly are blocked. Try looking at a detailed map of China on Google Maps &#8211; it ain&#8217;t gonna happen, at least not from here in the mainland.</p>
-<p>Travel sites are especially hard hit: <a href="http://www.travellerspoint.com">travellerspoint.com</a> is on-again, off-again. The web- site for our round the world tickets &#8211; <a href="http://www.oneworld.com">oneworld.com</a> hasn&#8217;t come up for use since we left Hong Kong. And now this: <a href="http://www.sophiesworld.cn/?p=25">Flickr Shamefully Blocked in China</>.</p>
-<p><a href="http://www.flickr.com/">Flickr</a>, the photo sharing site we use to host our travel photography is now being blocked in China. So while we can still post photos to Flickr (for the moment), we can not see them, and therefor can&#8217;t add them to our posts, tag them correctly, or throw them in our little sidebar to the right. </p>
-<p>We aren&#8217;t sure how long this will last. In the meantime if you want to see what we are seeing (and you aren&#8217;t located in Mainland China), check out our <a href="http://www.flickr.com/photos/lolo/collections/72157600010945846/">Round the World Collection</a> on Flickr.</p>
+Before we had arrived in mainland China we were aware that censorship was alive and well here. The televised news is little more than propaganda and access to other forms on information is limited. Many web-sites, several that we use regularly are blocked. Try looking at a detailed map of China on Google Maps – it ain't gonna happen, at least not from here in the mainland.
+
+Travel sites are especially hard hit: [travellerspoint.com][1] is on-again, off-again. The web- site for our round the world tickets – [oneworld.com][2] hasn't come up for use since we left Hong Kong. And now this: [Flickr Shamefully Blocked in China>.][3]
+
+[Flickr][4], the photo sharing site we use to host our travel photography is now being blocked in China. So while we can still post photos to Flickr (for the moment), we can not see them, and therefor can't add them to our posts, tag them correctly, or throw them in our little sidebar to the right.
+
+We aren't sure how long this will last. In the meantime if you want to see what we are seeing (and you aren't located in Mainland China), check out our [Round the World Collection][5] on Flickr.
+
+
+[1]: http://www.travellerspoint.com
+[2]: http://www.oneworld.com
+[3]: http://www.sophiesworld.cn/?p=25
+[4]: http://www.flickr.com/
+[5]: http://www.flickr.com/photos/lolo/collections/72157600010945846/

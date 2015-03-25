@@ -16,8 +16,7 @@ geo_enabled:
 geo_public:
   - 1
 categories:
-  - Travel Expenses
-  - Zimbabwe
+  - Zambia
 tags:
   - Economics
   - Economy of Zimbabwe

@@ -30,9 +30,7 @@ tags:
   - soccer
   - UEFA Champions League Final
 ---
-The first thing you&#8217;ll need to know is that İ&#8217;m a soccer fan, next it&#8217;s important to know that İ&#8217;m a fan of 
-
-[Liverpool FC][1] in England, since we happen to be in the UK it would make sense to go to a game in Liverpool right? Well, it&#8217;s not that easy these days.
+The first thing you&#8217;ll need to know is that İ&#8217;m a soccer fan, next it&#8217;s important to know that İ&#8217;m a fan of [Liverpool FC][1] in England, since we happen to be in the UK it would make sense to go to a game in Liverpool right? Well, it&#8217;s not that easy these days.
 
 ### Outside Looking In
 
@@ -40,13 +38,13 @@ Back in 2000 a few friends and myself did a &#8220;football&#8221; tour of the U
 
 This is what happened top us. The game sold out weeks in advance, even through the opponents (Derby County) are the English soccer equivalents of the LA Clippers. We looked high and low, but there was nothing available. We went to Liverpool anyway, looking for a miracle.
 
-When you&#8217;re looking for a miracle the best place to start is with a priest right? Enter Father Andrew Small &#8211; a former coworker of LeeAnne\`s and whose hometown is Liverpool. A week or so before we arrived she mailed him to get his recommendations on what to do in town (beyond soccer). Father Andrew, knowing that I was a Liverpool fan, asked if we were going to a game. LeeAnne reported the sad news &#8211; we didn&#8217;t have tickets and it looked like we wouldn&#8217;t find any.
+When you&#8217;re looking for a miracle the best place to start is with a priest right? Enter Father Andrew Small &#8211; a former coworker of LeeAnne&#8217;s and whose hometown is Liverpool. A week or so before we arrived she mailed him to get his recommendations on what to do in town (beyond soccer). Father Andrew, knowing that I was a Liverpool fan, asked if we were going to a game. LeeAnne reported the sad news &#8211; we didn&#8217;t have tickets and it looked like we wouldn&#8217;t find any.
 
 What happened next is what people in the movie industry call a &#8220;Reveal&#8221;: Father Andrew wrote back saying that his uncle &#8211; one [Bobby Campbell][2] &#8211; in fact use to play for Liverpool back in the day &#8211; before being the manager at Fulham and Chelsea &#8211; and he might be able to get us tickets. Not just normal tickets mind you &#8211; as a former player not only can he conjure tickets out of the air at the last minute he can also get &#8220;uber-tickets&#8221; &#8211; tickets for seats with the &#8220;Old Boys&#8221; &#8211; former Liverpool players. Well, that was unexpected.
 
 Many hands make easy work. As we arrived ın Liverpool an ocean away in Washington Father Andrew was calling his Mum Alice in Liverpool, who was then calling her brother Bobby in London, who was calling his connections at the box office at Liverpool.
 
-His contact at Liverpool FC turns out to be [Brian Hall][3], (who set up the winning goal in Liverpools 1974 FA Cup win over Newcastle United). Who found a pair of seats for us and had his assistant drop off the tickets at Alice Small\`s house, she was then was kind enough to meet us downtown for a cup of tea &#8211; lovely woman. All of this happened within 48 hours before the game, we (Okay, I) went from the deepest despair to the happiest glee, and I have many people to thank for it. We still aren&#8217;t sure how to repay everyone, someone suggested we name our first male child after Father Andrew, but I think he would be teased horribly if his first name was &#8220;Father&#8221; don&#8217;t you?
+His contact at Liverpool FC turns out to be [Brian Hall][3], (who set up the winning goal in Liverpools 1974 FA Cup win over Newcastle United). Who found a pair of seats for us and had his assistant drop off the tickets at Alice Small&#8217;s house, she was then was kind enough to meet us downtown for a cup of tea &#8211; lovely woman. All of this happened within 48 hours before the game, we (Okay, I) went from the deepest despair to the happiest glee, and I have many people to thank for it. We still aren&#8217;t sure how to repay everyone, someone suggested we name our first male child after Father Andrew, but I think he would be teased horribly if his first name was &#8220;Father&#8221; don&#8217;t you?
 
 ### In the Game
 

@@ -17,7 +17,6 @@ geo_public:
   - 1
 categories:
   - India
-  - Travel Expenses
 tags:
   - air-conditioned car
   - Auto rickshaw

@@ -17,7 +17,6 @@ geo_public:
   - 1
 categories:
   - Pre-Trip Preparation
-  - Travel Gear
 tags:
   - Flickr
   - internet cafes

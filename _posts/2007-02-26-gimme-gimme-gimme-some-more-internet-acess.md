@@ -16,8 +16,7 @@ geo_enabled:
 geo_public:
   - 1
 categories:
-  - Travel Expenses
-  - Travel Gear
+  - Australia
 tags:
   - Blog
   - gas stations

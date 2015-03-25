@@ -17,7 +17,6 @@ geo_public:
   - 1
 categories:
   - New Zealand
-  - Travel Expenses
 tags:
   - Adventure travel
   - Auckland

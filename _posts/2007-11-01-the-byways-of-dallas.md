@@ -3,7 +3,8 @@ title: The Byways of Dallas
 author: David Hogge
 layout: post
 permalink: /usa/the-byways-of-dallas.html
-thumbnail: http://farm2.static.flickr.com/1061/1405584181_ddb056ee8b_m.jpg
+thumbnail: http://farm2.static.flickr.com/1061/1405584181_ddb056ee8b
+thumbnail_alt: Sometimes the road less traveled...
 geo_latitude:
   - 32.802955
 geo_longitude:
@@ -27,11 +28,6 @@ tags:
   - Texas
   - Texas Thrift Store
 ---
-<figure>
-    <img alt="Sometimes the road less traveled..." src="http://farm2.static.flickr.com/1061/1405584181_ddb056ee8b_z.jpg" title="Sometimes the road less traveled..." />
-    <figcaption>Sometimes the road less traveled...</figcaption>
-</figure>
-
 Dallas, Texas is all together different from Oregon. Goodbye green, hello brown. Goodbye wooded mountains, hello scrubby flatlands. Goodbye rain, hello warm weather and sunny skies. So it&#8217;s not all bad.
 
 If Portland was the City of Roses I suppose Dallas has to be the City of Byways. They love a road here, and not just roads &#8211; Highway, Parkway, Tollway, Freeway, Expressway, Turnpike &#8211; Dallas has them all, no shortages of roads, cars or traffic here.

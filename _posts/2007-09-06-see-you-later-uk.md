@@ -30,7 +30,7 @@ Anyway, I&#8217;m really glad we did. It was a little bit like being back in the
 
 All in all good things, we will probably see our English Cousins sooner rather than later.
 
- [1]: http://gothereandback.com/?p=177
+ [1]: http://gothereandback.com/england/this-is-anfield.html
  [2]: www.thepolyphonicspree.com/
  [3]: en.wikipedia.org/wiki/London_Astoria
  [4]: www.beastieboys.com/

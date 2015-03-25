@@ -27,11 +27,9 @@ tags:
   - Southland
   - Southland Region
 ---
-So we are back on the road cycling. This time we are lighter (we dropped a bunch of stuff off with acquaintances in Christchurch), smarter (we&#8217;ve traveled south by bus and are riding north to keep the wind at our backs), and more motivated (if you read our post on 
+So we are back on the road cycling. This time we are lighter (we dropped a bunch of stuff off with acquaintances in Christchurch), smarter (we&#8217;ve traveled south by bus and are riding north to keep the wind at our backs), and more motivated (if you read our post on [Invercargill][1] you&#8217;ll understand, we need to get out of here!).
 
-[Invercargill][1] you&#8217;ll understand, we need to get out of here!).
-
-The terrain here in the Southland is relatively flat to rolling hills. It reminds me a lot of the Ozarks. The domed hills will also be familiar to anyone that has spent much time in front of a Windows XP machine. You know the desktop wallpaper that it ships with? The one with the grass hills that strech on forever? The too perfect curve of the hills into the meadow? I could give you a million photos like that from Southland &#8230;but they would all have sheep on them.
+The terrain here in the Southland is relatively flat to rolling hills. It reminds me a lot of the Ozarks. The domed hills will also be familiar to anyone that has spent much time in front of a Windows XP machine. You know the desktop wallpaper that it ships with? The one with the grass hills that stretch on forever? The too perfect curve of the hills into the meadow? I could give you a million photos like that from Southland &#8230;but they would all have sheep on them.
 
 We&#8217;re in the &#8220;Roaring &#8217;40&#8217;s&#8221; down here, and the winds do roar &#8230;at our backs. It&#8217;s been some easy riding (by design if I do say so myself). In fact just like Camelot, it only rains here after dark. No really, it has rained on us almost every night since we arrived in Invercargill &#8230;but only after say 6:30 or so. Very convenient. Then every morning around say 5:30 or so there&#8217;s a big wind storm that rolls through and drys everything out. How could I make this up? If man ever figures out how to control the weather, I would say we follow the model they use down here.
 
@@ -43,4 +41,4 @@ Clinton is by it&#8217;s own admission only a three horse town &#8211; they have
 
 So that&#8217;s it. The only drama on this leg of the ride is that I broke a spoke (never done that before) and rode about a day on it before we found a guy that does small motor and bike repair in Balclutha. He put in a new spoke and trued the wheel. Onward to Dunedin!
 
- [1]: http://gothereandback.com/?p=36
+ [1]: http://gothereandback.com/new-zealand/invercargill-nights.html

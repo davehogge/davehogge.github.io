@@ -10,7 +10,7 @@ geo_latitude:
 geo_longitude:
   - -77.0363658
 geo_address:
-  - Natl Trans Safety Board, District of Columbia, United States
+  - Washington, District of Columbia, United States
 geo_enabled:
   - 1
 geo_public:

@@ -17,8 +17,6 @@ geo_public:
   - 1
 categories:
   - Australia
-  - Travel Expenses
-  - Travel Gear
 tags:
   - Adelaide
   - digital slr

@@ -17,7 +17,6 @@ geo_public:
   - 1
 categories:
   - New Zealand
-  - Pre-Trip Preparation
 tags:
   - Exchange rate
   - flights

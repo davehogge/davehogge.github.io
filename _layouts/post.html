@@ -20,18 +20,37 @@ layout: default
     
 </div>
 
+{% assign categories = '' %}
+{% for post in site.posts %}
+    {% if post.url == page.url %}
+        {% assign categories = post.categories %}
+    {% endif %}
+{% endfor %}
+
+{% assign total = '0' %}
+{% assign item = '0' %}
+{% for post in site.posts reversed %}
+    {% if post.categories == page.categories %}
+		{% if post.url == page.url %}
+            {% capture item %}{{ total }}{% endcapture %}
+		{% endif %}
+	{% endif %}
+{% endfor %}
+
+{% comment %} 
 <div class="related">
     <h2>Related Posts</h2>
     <ul class="related-posts">
-        {% for post in site.related_posts limit:3 %}
-        <li>
-            <h3>
-                <a href="{{ post.url }}">
-                    {{ post.title }}
-                    <small>{{ post.date | date_to_string }}</small>
-                </a>
-            </h3>
-        </li>
-        {% endfor %}
-    </ul>
+    {% assign total = '0' %}
+    {% for post in site.posts reversed %}
+        {% if post.categories == page.categories %}
+            {% if page.url != post.url %}
+            <li>
+                <h3><a href="{{ post.url }}">{{ post.title }} <small>{{ post.date | date_to_string }}</small></a></h3>
+            </li>
+            {% endif %}
+        {% endif %}
+	{% endfor %}
+	</ul>
 </div>
+{% endcomment %}

@@ -30,7 +30,7 @@ tags:
   - Shobak Castle
   - Western Asia
 ---
-There are two ways to get from Petra to Amman: the fast way is to take the Desert Highway, a name that leaves little to the imagination, the other is the Kings Highway. The King’s Highway was a major trade route in the ancient Mid-East. It begins in Egypt crosses the Sinai Peninsula then turns north, stretching to Damascus before forking to either Bagdhad or Anatolia.
+There are two ways to get from Petra to Amman: the fast way is to take the Desert Highway, a name that leaves little to the imagination, the other is the Kings Highway. The King’s Highway was a major trade route in the ancient Mid-East. It begins in Egypt crosses the Sinai Peninsula then turns north, stretching to Damascus before forking to either Baghdad or Anatolia.
 
 The Kings Highway is mentioned in the Bible in the book of Numbers chapter 20 verses 17-21:
 
